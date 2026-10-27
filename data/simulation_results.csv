@@ -1,0 +1,61 @@
+ts,node_id,location,level_dba,predicted,confidence,true_state,exposure_alert,anomaly_alert
+2026-10-27T15:29:50,NODE-01,Press Shop,62.7,Normal,0.943,Normal,0,0
+2026-10-27T15:29:50,NODE-02,Compressor Room,59.4,Normal,0.975,Normal,0,0
+2026-10-27T15:29:50,NODE-03,Assembly Line,63.7,Normal,0.944,Normal,0,0
+2026-10-27T15:29:50,NODE-01,Press Shop,83.1,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:50,NODE-02,Compressor Room,82.8,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:50,NODE-03,Assembly Line,89.5,Impact,0.794,Impact,1,0
+2026-10-27T15:29:50,NODE-01,Press Shop,79.8,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:50,NODE-02,Compressor Room,76.1,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:50,NODE-03,Assembly Line,88.4,Impact,0.742,Impact,1,0
+2026-10-27T15:29:51,NODE-01,Press Shop,82.1,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-02,Compressor Room,82.3,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,95.1,Impact,0.689,Impact,1,0
+2026-10-27T15:29:51,NODE-01,Press Shop,80.9,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-02,Compressor Room,79.7,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,93.6,Normal,0.447,Impact,1,0
+2026-10-27T15:29:51,NODE-01,Press Shop,84.9,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-02,Compressor Room,80.4,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,91.7,Impact,0.627,Impact,1,0
+2026-10-27T15:29:51,NODE-01,Press Shop,83.4,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-02,Compressor Room,85.2,Air leak,1.0,Air leak,1,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,79.6,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-01,Press Shop,60.0,Normal,0.949,Normal,0,0
+2026-10-27T15:29:51,NODE-02,Compressor Room,78.5,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,81.6,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-01,Press Shop,63.7,Normal,0.966,Normal,0,0
+2026-10-27T15:29:51,NODE-02,Compressor Room,80.7,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-03,Assembly Line,79.8,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:51,NODE-01,Press Shop,60.2,Normal,0.961,Normal,0,0
+2026-10-27T15:29:51,NODE-02,Compressor Room,58.7,Normal,0.96,Normal,0,0
+2026-10-27T15:29:51,NODE-03,Assembly Line,84.2,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,58.7,Normal,0.968,Normal,0,0
+2026-10-27T15:29:52,NODE-02,Compressor Room,62.7,Normal,0.974,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,82.3,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,60.2,Normal,0.862,Normal,0,0
+2026-10-27T15:29:52,NODE-02,Compressor Room,59.3,Normal,0.932,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,81.8,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,60.9,Normal,0.918,Normal,0,0
+2026-10-27T15:29:52,NODE-02,Compressor Room,62.8,Normal,0.885,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,80.8,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,82.7,Overload,0.998,Overload,0,1
+2026-10-27T15:29:52,NODE-02,Compressor Room,63.4,Normal,0.949,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,77.7,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,80.1,Overload,0.995,Overload,0,1
+2026-10-27T15:29:52,NODE-02,Compressor Room,63.2,Normal,0.978,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,60.8,Normal,0.895,Normal,0,0
+2026-10-27T15:29:52,NODE-01,Press Shop,82.2,Overload,0.997,Overload,0,1
+2026-10-27T15:29:52,NODE-02,Compressor Room,62.2,Normal,0.932,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,59.3,Normal,0.951,Normal,0,0
+2026-10-27T15:29:52,NODE-01,Press Shop,87.3,Overload,0.997,Overload,1,1
+2026-10-27T15:29:52,NODE-02,Compressor Room,63.0,Normal,0.942,Normal,0,0
+2026-10-27T15:29:52,NODE-03,Assembly Line,78.0,Overload,0.999,Overload,0,1
+2026-10-27T15:29:52,NODE-01,Press Shop,77.7,Overload,0.998,Overload,0,1
+2026-10-27T15:29:52,NODE-02,Compressor Room,80.6,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:52,NODE-03,Assembly Line,80.6,Overload,0.997,Overload,0,1
+2026-10-27T15:29:53,NODE-01,Press Shop,85.3,Overload,0.998,Overload,1,1
+2026-10-27T15:29:53,NODE-02,Compressor Room,79.2,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:53,NODE-03,Assembly Line,83.6,Overload,0.999,Overload,0,1
+2026-10-27T15:29:53,NODE-01,Press Shop,61.6,Normal,0.881,Normal,0,0
+2026-10-27T15:29:53,NODE-02,Compressor Room,77.5,Air leak,1.0,Air leak,0,1
+2026-10-27T15:29:53,NODE-03,Assembly Line,85.9,Overload,0.995,Overload,1,1

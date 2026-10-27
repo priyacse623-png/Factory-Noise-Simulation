@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+       Normal      0.857     1.000     0.923        30
+Bearing fault      1.000     1.000     1.000        30
+     Air leak      1.000     1.000     1.000        30
+       Impact      1.000     0.833     0.909        30
+     Overload      1.000     1.000     1.000        30
+
+     accuracy                          0.967       150
+    macro avg      0.971     0.967     0.966       150
+ weighted avg      0.971     0.967     0.966       150

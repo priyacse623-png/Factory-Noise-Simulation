@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+librosa
+tensorflow-cpu      # or: tensorflow
+scikit-learn
+matplotlib
+streamlit
+paho-mqtt           # optional: only needed for --transport mqtt
